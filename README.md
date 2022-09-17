@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Pavel Uspensky
 - 👀 I’m interested in web-developing
-- 🌱 I’m currently learning Bootstrap, Tailwind, JS, React, Node.Js
+- 🌱 I’m currently learning Bootstrap, Tailwind, SAAS, JS, React, Node.Js, GitHub
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: dormires@gmail.com
 
