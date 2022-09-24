@@ -12,9 +12,9 @@
   <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=vk&logoColor=white" alt="VK Badge"/>
  </a>
 </div>
-<div align="center">
+<!--<div align="center">
  <img src="https://komarev.com/ghpvc/?username=site2beru&style=flat-square&color=blue" alt=""/>
-</div>
+</div>-->
 <h1>
   hello, world!
 </h1>
