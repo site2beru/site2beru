@@ -45,11 +45,6 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/less/less-plain-wordmark.svg" title="LESS" alt="LESS" width="40" height="40"/>&nbsp;
     
 </div>
-
-### My Stats :
-
-
-
         
 <!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=site2beru&theme=dark)](https://git.io/streak-stats)
 
