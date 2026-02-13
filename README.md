@@ -46,12 +46,12 @@
     
 </div>
 
-### :fire: My Stats :
+### My Stats :
 
 
 
         
-<!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=site2beru&theme=dark)](https://git.io/streak-stats)-->
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=site2beru&theme=dark)](https://git.io/streak-stats)
 
 
         
