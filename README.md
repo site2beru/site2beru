@@ -21,12 +21,8 @@
 
 ### :man_technologist: About Me :
 
-- 👋 Hi, I’m Pavel Uspensky
-- I’m interested in web-developing
-- I’m currently using HTML5, CSS3, Bootstrap, Tailwind, SAAS, JS, jQuery, PHP, MySQL
-- I’m currently learning React, Node.Js, GitHub
-- I’m looking for a job in IT company
-- 📫 Contact me via: dormires@yandex.ru / dormires@gmail.com
+Hi, I’m Pavel Uspensky
+Contact me via: dormires@yandex.ru / dormires@gmail.com
 
 ### :hammer_and_wrench: Languages and Tools :
 
